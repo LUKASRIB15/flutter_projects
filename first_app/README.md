@@ -1,16 +1,27 @@
-# first_app
+<h1 align="center">Roll Dice</h1>
 
-A new Flutter project.
+Nesse projeto eu desenvolvi um aplicativo para sortear um dado durante meus estudos sobre desenvolvimento Mobile com Flutter & Dart.
 
-## Getting Started
+![Alt text](../assetsScreens/Sem%20t%C3%ADtulo.png)
 
-This project is a starting point for a Flutter application.
+## 🚀 Começando
 
-A few resources to get you started if this is your first Flutter project:
+O intuito desse projeto foi focado nos estudos e na compreensão dos fundamentos básicos do Flutter:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<ul>
+  <li>Compreensão da função runApp()</li>
+  <li>Compreensão sobre Widgets</li>
+  <li>Estilizações básicas de Widgets</li>
+  <li>Usando Classes</li>
+  <li>Usando imagens no Flutter</li>
+  <li>Widgets Column e Row</li>
+  <li>Aplicação do StatefulWidget</li>
+</ul>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/>
+
+## 🛠️ Construído com
+
+* [Flutter](https://flutter.dev/) - Framework
+* [Dart](https://dart.dev) - Linguagem de programação
+* [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjwuqiiBhBtEiwATgvixBAirq1H4W0KCvEgujtfr2vMhfs42lGVPIFs2PhnON0ELj5sNhO1LhoCCO8QAvD_BwE&gclsrc=aw.ds) - Ambiente de desenvolvimento e Emulador
